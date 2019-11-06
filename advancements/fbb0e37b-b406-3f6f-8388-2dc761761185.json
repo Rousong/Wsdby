@@ -53,15 +53,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2019-11-05 23:29:52 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2019-11-05 23:27:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2019-11-05 23:29:52 +0800"
     },
     "done": true
   },
@@ -86,6 +86,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2019-11-05 21:00:56 +0800",
+      "minecraft:mountains": "2019-11-06 23:53:21 +0800",
+      "minecraft:river": "2019-11-06 23:53:19 +0800",
       "minecraft:plains": "2019-11-04 14:15:45 +0800"
     },
     "done": false
@@ -108,12 +110,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_stick": "2019-11-05 23:29:52 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2019-11-05 23:27:01 +0800"
@@ -129,6 +125,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2019-11-05 23:27:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2019-11-05 23:29:52 +0800"
     },
     "done": true
   },
@@ -180,15 +182,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_shovel": {
-    "criteria": {
-      "has_stick": "2019-11-05 23:29:52 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2019-11-05 23:27:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2019-11-05 23:29:52 +0800"
     },
     "done": true
   },
@@ -228,15 +230,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2019-11-05 23:32:22 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2019-11-05 23:27:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2019-11-05 23:32:22 +0800"
     },
     "done": true
   },
