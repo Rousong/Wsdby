@@ -23,15 +23,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2019-11-08 20:19:18 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2019-11-08 20:24:26 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "in_water": "2019-11-08 20:19:18 +0800"
+      "diamond_boots": "2019-11-09 17:49:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2019-11-09 17:49:32 +0800"
     },
     "done": true
   },
@@ -86,6 +98,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2019-11-08 20:19:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2019-11-09 17:49:32 +0800"
     },
     "done": true
   },
