@@ -473,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2019-11-14 20:00:15 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2019-11-06 20:38:37 +0800"
@@ -799,6 +805,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2019-11-14 20:00:19 +0800",
+      "minecraft:creeper": "2019-11-14 20:00:15 +0800",
       "minecraft:phantom": "2019-11-09 19:32:16 +0800",
       "minecraft:zombie": "2019-11-05 11:46:47 +0800"
     },
@@ -999,6 +1007,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2019-11-05 19:52:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2019-11-14 21:47:26 +0800"
     },
     "done": true
   },
