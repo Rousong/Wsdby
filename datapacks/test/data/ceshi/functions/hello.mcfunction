@@ -1,0 +1,1 @@
+execute if entity @e[type=sheep,distance=..2] run function ceshi:sheep
