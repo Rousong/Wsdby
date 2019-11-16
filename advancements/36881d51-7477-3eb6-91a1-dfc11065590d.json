@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2019-11-16 11:19:09 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2019-11-05 11:48:08 +0800"
@@ -176,6 +182,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2019-11-05 11:56:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2019-11-16 11:19:09 +0800"
     },
     "done": true
   },
@@ -323,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2019-11-16 15:00:09 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2019-11-05 11:48:08 +0800"
@@ -346,6 +364,12 @@
       "cooked_mutton": "2019-11-08 11:15:08 +0800"
     },
     "done": false
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2019-11-16 14:33:17 +0800"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/shield": {
     "criteria": {
@@ -569,6 +593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2019-11-16 11:19:09 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2019-11-07 21:29:04 +0800"
@@ -749,6 +779,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2019-11-16 14:37:49 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2019-11-05 11:46:47 +0800"
@@ -791,6 +827,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2019-11-16 14:32:28 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2019-11-07 13:32:01 +0800"
@@ -805,10 +847,15 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2019-11-16 14:34:14 +0800",
+      "minecraft:zombie_pigman": "2019-11-16 14:59:56 +0800",
       "minecraft:spider": "2019-11-14 20:00:19 +0800",
       "minecraft:creeper": "2019-11-14 20:00:15 +0800",
+      "minecraft:evoker": "2019-11-16 14:37:34 +0800",
       "minecraft:phantom": "2019-11-09 19:32:16 +0800",
-      "minecraft:zombie": "2019-11-05 11:46:47 +0800"
+      "minecraft:enderman": "2019-11-16 14:38:26 +0800",
+      "minecraft:zombie": "2019-11-05 11:46:47 +0800",
+      "minecraft:zombie_villager": "2019-11-16 14:59:44 +0800"
     },
     "done": false
   },
@@ -851,6 +898,12 @@
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2019-11-05 11:56:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2019-11-16 14:32:28 +0800"
     },
     "done": true
   },
@@ -941,6 +994,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2019-11-08 13:58:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2019-11-16 15:00:09 +0800"
     },
     "done": true
   },
@@ -1037,6 +1096,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2019-11-09 15:12:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2019-11-16 14:32:28 +0800"
     },
     "done": true
   },
@@ -1494,6 +1559,8 @@
     "criteria": {
       "minecraft:forest": "2019-11-05 11:46:35 +0800",
       "minecraft:mountains": "2019-11-05 11:48:46 +0800",
+      "minecraft:desert_hills": "2019-11-16 14:45:41 +0800",
+      "minecraft:desert": "2019-11-16 10:33:34 +0800",
       "minecraft:birch_forest": "2019-11-09 17:43:46 +0800",
       "minecraft:river": "2019-11-05 11:48:47 +0800",
       "minecraft:birch_forest_hills": "2019-11-09 17:44:00 +0800",
@@ -1521,9 +1588,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2019-11-16 11:11:38 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2019-11-05 11:48:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2019-11-16 11:27:14 +0800"
     },
     "done": true
   },
@@ -1623,6 +1702,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2019-11-16 14:55:45 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2019-11-13 00:45:23 +0800"
@@ -1659,6 +1744,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2019-11-16 11:19:09 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2019-11-09 15:20:28 +0800"
@@ -1692,6 +1783,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-11-07 13:06:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2019-11-16 11:19:09 +0800"
     },
     "done": true
   },
