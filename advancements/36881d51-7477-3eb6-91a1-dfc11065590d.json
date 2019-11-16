@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2019-11-16 20:37:26 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2019-11-07 13:32:01 +0800"
@@ -458,6 +464,12 @@
   "minecraft:recipes/building_blocks/prismarine_brick_slab": {
     "criteria": {
       "has_prismarine_bricks": "2019-11-09 18:40:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2019-11-16 20:37:26 +0800"
     },
     "done": true
   },
@@ -788,6 +800,18 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2019-11-05 11:46:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2019-11-16 20:37:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2019-11-16 20:37:26 +0800"
     },
     "done": true
   },
@@ -1309,6 +1333,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2019-11-16 20:37:26 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-11-09 15:12:09 +0800"
@@ -1562,10 +1592,13 @@
       "minecraft:desert_hills": "2019-11-16 14:45:41 +0800",
       "minecraft:desert": "2019-11-16 10:33:34 +0800",
       "minecraft:birch_forest": "2019-11-09 17:43:46 +0800",
+      "minecraft:savanna_plateau": "2019-11-16 21:36:24 +0800",
       "minecraft:river": "2019-11-05 11:48:47 +0800",
       "minecraft:birch_forest_hills": "2019-11-09 17:44:00 +0800",
       "minecraft:wooded_mountains": "2019-11-08 10:40:21 +0800",
+      "minecraft:wooded_hills": "2019-11-16 18:10:31 +0800",
       "minecraft:swamp": "2019-11-09 17:40:49 +0800",
+      "minecraft:savanna": "2019-11-16 21:34:37 +0800",
       "minecraft:plains": "2019-11-04 11:09:32 +0800"
     },
     "done": false
@@ -1711,6 +1744,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2019-11-13 00:45:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2019-11-16 20:37:26 +0800"
     },
     "done": true
   },
