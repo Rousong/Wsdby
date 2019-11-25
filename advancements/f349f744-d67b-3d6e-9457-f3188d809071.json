@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2019-11-20 21:46:13 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2019-11-04 13:09:07 +0800"
@@ -356,6 +362,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2019-11-04 21:45:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2019-11-24 13:45:37 +0800"
     },
     "done": true
   },
@@ -581,9 +593,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2019-11-20 21:46:13 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2019-11-04 21:45:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2019-11-24 13:45:37 +0800"
     },
     "done": true
   },
@@ -688,7 +712,8 @@
       "minecraft:witch": "2019-11-05 21:41:33 +0800",
       "minecraft:cave_spider": "2019-11-07 00:44:02 +0800",
       "minecraft:enderman": "2019-11-05 22:39:04 +0800",
-      "minecraft:zombie": "2019-11-03 22:51:57 +0800"
+      "minecraft:zombie": "2019-11-03 22:51:57 +0800",
+      "minecraft:zombie_villager": "2019-11-24 18:36:26 +0800"
     },
     "done": false
   },
@@ -1522,6 +1547,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2019-11-24 13:45:37 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2019-11-07 00:09:04 +0800"
@@ -1684,6 +1715,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2019-11-20 21:46:45 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2019-11-04 21:45:44 +0800"
@@ -1753,6 +1790,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2019-11-03 23:32:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2019-11-20 21:46:45 +0800"
     },
     "done": true
   },
@@ -1952,6 +1995,7 @@
       "pumpkin_pie": "2019-11-09 09:45:54 +0800",
       "bread": "2019-11-04 21:49:22 +0800",
       "melon_slice": "2019-11-09 15:09:07 +0800",
+      "cooked_rabbit": "2019-11-23 13:45:00 +0800",
       "cooked_chicken": "2019-11-05 22:25:52 +0800",
       "mushroom_stew": "2019-11-13 20:47:46 +0800",
       "cod": "2019-11-05 21:50:37 +0800",
@@ -2910,6 +2954,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2019-11-20 21:46:13 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2019-11-05 21:08:19 +0800"
@@ -3018,6 +3068,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2019-11-24 11:40:31 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2019-11-03 23:32:45 +0800"
@@ -3111,6 +3167,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2019-11-03 23:32:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2019-11-24 18:45:13 +0800"
     },
     "done": true
   },

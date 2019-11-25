@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2019-11-18 22:27:26 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2019-11-07 21:59:11 +0800"
@@ -434,6 +440,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2019-11-05 21:13:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2019-11-17 19:41:11 +0800"
     },
     "done": true
   },
@@ -827,6 +839,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2019-11-17 19:41:11 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2019-11-03 22:25:28 +0800"
@@ -1025,6 +1043,7 @@
       "minecraft:spider": "2019-11-05 20:41:09 +0800",
       "minecraft:creeper": "2019-11-04 21:21:04 +0800",
       "minecraft:phantom": "2019-11-04 10:48:49 +0800",
+      "minecraft:husk": "2019-11-17 19:35:42 +0800",
       "minecraft:zombie": "2019-11-05 21:01:32 +0800"
     },
     "done": false
@@ -1241,6 +1260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2019-11-21 21:45:00 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2019-11-03 22:37:53 +0800"
@@ -1427,6 +1452,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2019-11-17 19:41:11 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2019-11-03 22:25:48 +0800"
@@ -1442,6 +1473,12 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2019-11-03 23:41:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2019-11-17 19:33:19 +0800"
     },
     "done": true
   },
@@ -1757,6 +1794,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2019-11-17 19:41:11 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-11-04 10:44:35 +0800"
@@ -1862,12 +1905,16 @@
       "minecraft:desert_hills": "2019-11-08 22:42:07 +0800",
       "minecraft:desert": "2019-11-08 22:40:43 +0800",
       "minecraft:birch_forest": "2019-11-08 23:09:50 +0800",
+      "minecraft:deep_lukewarm_ocean": "2019-11-24 21:40:40 +0800",
       "minecraft:savanna_plateau": "2019-11-08 22:39:45 +0800",
       "minecraft:beach": "2019-11-08 22:57:29 +0800",
       "minecraft:dark_forest": "2019-11-08 22:45:08 +0800",
       "minecraft:river": "2019-11-03 22:11:26 +0800",
+      "minecraft:lukewarm_ocean": "2019-11-18 22:16:15 +0800",
       "minecraft:wooded_mountains": "2019-11-08 22:40:10 +0800",
       "minecraft:wooded_hills": "2019-11-08 23:11:39 +0800",
+      "minecraft:stone_shore": "2019-11-24 21:52:24 +0800",
+      "minecraft:swamp": "2019-11-21 22:20:40 +0800",
       "minecraft:savanna": "2019-11-08 22:36:46 +0800",
       "minecraft:plains": "2019-11-03 22:03:04 +0800"
     },
@@ -1906,6 +1953,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2019-11-04 13:26:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2019-11-21 21:45:00 +0800"
     },
     "done": true
   },

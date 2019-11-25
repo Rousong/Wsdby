@@ -361,6 +361,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2019-11-23 16:55:50 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-11-08 14:13:43 +0800"
@@ -535,15 +541,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2019-11-13 13:34:49 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2019-11-13 13:15:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2019-11-13 13:34:49 +0800"
     },
     "done": true
   },
@@ -612,6 +618,7 @@
       "minecraft:forest": "2019-11-04 19:03:56 +0800",
       "minecraft:mountains": "2019-11-05 08:40:10 +0800",
       "minecraft:river": "2019-11-05 08:41:26 +0800",
+      "minecraft:swamp": "2019-11-23 16:51:02 +0800",
       "minecraft:plains": "2019-11-04 10:46:49 +0800"
     },
     "done": false
@@ -625,6 +632,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2019-11-12 09:18:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2019-11-23 16:53:56 +0800"
     },
     "done": true
   },
@@ -805,6 +818,12 @@
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_acacia_planks": "2019-11-09 09:16:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2019-11-23 16:55:50 +0800"
     },
     "done": true
   },
