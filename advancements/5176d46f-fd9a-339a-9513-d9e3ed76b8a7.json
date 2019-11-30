@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2019-11-30 21:04:40 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone": {
     "criteria": {
       "has_sand": "2019-11-04 16:37:55 +0800"

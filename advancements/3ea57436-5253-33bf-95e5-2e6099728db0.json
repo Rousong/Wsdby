@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2019-11-30 19:36:48 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2019-11-12 19:50:18 +0800"
@@ -492,6 +498,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2019-11-17 09:34:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/composter": {
+    "criteria": {
+      "has_wooden_fences": "2019-11-30 19:28:37 +0800"
     },
     "done": true
   },

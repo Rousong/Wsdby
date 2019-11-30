@@ -574,6 +574,7 @@
       "minecraft:pillager": "2019-11-16 14:34:14 +0800",
       "minecraft:skeleton": "2019-11-17 13:48:51 +0800",
       "minecraft:zombie_pigman": "2019-11-16 14:59:56 +0800",
+      "minecraft:ravager": "2019-11-30 11:16:55 +0800",
       "minecraft:spider": "2019-11-14 20:00:19 +0800",
       "minecraft:creeper": "2019-11-14 20:00:15 +0800",
       "minecraft:evoker": "2019-11-16 14:37:34 +0800",
@@ -844,6 +845,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2019-11-30 13:57:15 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2019-11-08 10:27:17 +0800"
@@ -1036,6 +1043,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_glazed_terracotta": {
+    "criteria": {
+      "has_magenta_terracotta": "2019-11-30 10:08:59 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2019-11-05 11:46:47 +0800"
@@ -1067,6 +1080,7 @@
       "minecraft:desert_hills": "2019-11-16 14:45:41 +0800",
       "minecraft:desert": "2019-11-16 10:33:34 +0800",
       "minecraft:birch_forest": "2019-11-09 17:43:46 +0800",
+      "minecraft:deep_lukewarm_ocean": "2019-11-30 19:12:13 +0800",
       "minecraft:savanna_plateau": "2019-11-16 21:36:24 +0800",
       "minecraft:beach": "2019-11-17 09:38:15 +0800",
       "minecraft:river": "2019-11-05 11:48:47 +0800",
@@ -1239,6 +1253,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2019-11-09 18:48:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2019-11-30 10:49:54 +0800"
     },
     "done": true
   },
@@ -2113,6 +2133,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2019-11-30 10:49:54 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2019-11-24 22:26:28 +0800"
@@ -2206,6 +2232,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2019-11-24 22:32:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_logs": "2019-11-30 13:57:15 +0800"
     },
     "done": true
   },
