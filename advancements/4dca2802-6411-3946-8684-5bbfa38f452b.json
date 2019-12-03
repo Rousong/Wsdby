@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2019-12-03 15:45:10 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2019-11-20 21:25:08 +0800"
@@ -1380,6 +1386,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:creeper": "2019-11-17 11:42:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2019-12-03 13:55:37 +0800"
     },
     "done": true
   },

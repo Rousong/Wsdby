@@ -2167,6 +2167,7 @@
       "cooked_cod": "2019-11-05 21:06:38 +0800",
       "pumpkin_pie": "2019-11-09 09:45:54 +0800",
       "bread": "2019-11-04 21:49:22 +0800",
+      "golden_apple": "2019-12-03 19:28:44 +0800",
       "melon_slice": "2019-11-09 15:09:07 +0800",
       "cooked_rabbit": "2019-11-23 13:45:00 +0800",
       "cooked_chicken": "2019-11-05 22:25:52 +0800",
@@ -2945,6 +2946,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2019-11-03 23:48:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2019-12-03 20:13:22 +0800"
     },
     "done": true
   },
