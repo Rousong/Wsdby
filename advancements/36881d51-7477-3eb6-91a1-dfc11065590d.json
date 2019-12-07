@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2019-12-07 14:33:30 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2019-11-05 11:48:08 +0800"
@@ -236,6 +242,12 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_logs": "2019-11-08 10:27:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2019-12-07 14:33:30 +0800"
     },
     "done": true
   },
@@ -1100,6 +1112,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2019-12-07 14:33:30 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2019-11-24 22:26:28 +0800"
@@ -1409,6 +1427,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2019-11-07 13:22:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2019-12-07 14:33:30 +0800"
     },
     "done": true
   },
@@ -2385,6 +2409,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2019-12-07 14:33:30 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
       "has_dark_prismarine": "2019-11-17 14:33:17 +0800"
@@ -2436,6 +2466,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2019-11-16 11:19:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2019-12-07 14:33:30 +0800"
     },
     "done": true
   },
