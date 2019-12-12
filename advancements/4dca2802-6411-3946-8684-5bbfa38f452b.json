@@ -1282,6 +1282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_black_flower": "2019-12-12 22:27:51 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2019-11-17 14:17:49 +0800"
@@ -2560,6 +2566,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2019-12-12 22:36:57 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2019-11-20 18:26:42 +0800"
@@ -3076,6 +3088,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2019-12-12 22:18:16 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_smelting": {
     "criteria": {
       "has_coal_ore": "2019-12-01 13:39:34 +0800"
@@ -3229,6 +3247,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_at_least_9_coal": "2019-11-17 19:19:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2019-12-12 22:36:57 +0800"
     },
     "done": true
   },
