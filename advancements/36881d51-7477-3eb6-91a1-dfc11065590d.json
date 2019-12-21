@@ -413,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2019-12-21 20:56:46 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2019-11-09 15:11:50 +0800"
@@ -1101,6 +1107,7 @@
       "minecraft:deep_lukewarm_ocean": "2019-11-30 19:12:13 +0800",
       "minecraft:savanna_plateau": "2019-11-16 21:36:24 +0800",
       "minecraft:beach": "2019-11-17 09:38:15 +0800",
+      "minecraft:dark_forest": "2019-12-21 20:55:00 +0800",
       "minecraft:river": "2019-11-05 11:48:47 +0800",
       "minecraft:lukewarm_ocean": "2019-11-17 09:39:31 +0800",
       "minecraft:birch_forest_hills": "2019-11-09 17:44:00 +0800",
@@ -1427,6 +1434,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2019-11-07 13:22:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2019-12-21 18:51:55 +0800"
     },
     "done": true
   },

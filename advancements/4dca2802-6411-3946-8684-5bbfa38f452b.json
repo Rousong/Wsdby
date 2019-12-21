@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2019-12-21 20:12:33 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2019-11-18 15:35:19 +0800"
@@ -500,6 +506,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2019-11-27 14:27:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2019-12-21 20:12:33 +0800"
     },
     "done": true
   },
@@ -713,6 +725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2019-12-21 20:12:33 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_birch_planks": "2019-11-20 21:58:51 +0800"
@@ -913,6 +931,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2019-12-01 14:46:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2019-12-21 20:12:33 +0800"
     },
     "done": true
   },
@@ -1532,6 +1556,7 @@
       "minecraft:deep_lukewarm_ocean": "2019-11-17 16:39:31 +0800",
       "minecraft:savanna_plateau": "2019-11-17 14:09:34 +0800",
       "minecraft:beach": "2019-11-17 09:45:55 +0800",
+      "minecraft:dark_forest": "2019-12-21 20:54:55 +0800",
       "minecraft:river": "2019-11-17 09:46:37 +0800",
       "minecraft:lukewarm_ocean": "2019-11-17 09:46:40 +0800",
       "minecraft:birch_forest_hills": "2019-12-18 22:48:37 +0800",
@@ -2447,6 +2472,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2019-12-21 20:12:33 +0800"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2019-12-02 10:02:31 +0800"
@@ -2468,6 +2499,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2019-12-02 10:02:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2019-12-21 13:50:12 +0800"
     },
     "done": true
   },
@@ -3122,6 +3159,12 @@
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_jungle_planks": "2019-12-01 14:11:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2019-12-21 20:12:33 +0800"
     },
     "done": true
   },
