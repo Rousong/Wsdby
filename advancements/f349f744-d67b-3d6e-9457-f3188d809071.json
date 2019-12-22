@@ -1244,6 +1244,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2019-12-22 20:59:42 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-11-03 23:16:07 +0800"

@@ -2760,6 +2760,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
+    "criteria": {
+      "has_lime_terracotta": "2019-12-22 20:54:16 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2019-12-07 14:11:02 +0800"
