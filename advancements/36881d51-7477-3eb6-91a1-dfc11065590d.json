@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2019-12-30 13:30:34 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2019-11-05 11:48:08 +0800"
@@ -1125,9 +1131,12 @@
     "criteria": {
       "minecraft:forest": "2019-11-05 11:46:35 +0800",
       "minecraft:mountains": "2019-11-05 11:48:46 +0800",
+      "minecraft:taiga": "2019-12-30 13:22:57 +0800",
       "minecraft:desert_hills": "2019-11-16 14:45:41 +0800",
+      "minecraft:giant_tree_taiga": "2019-12-30 13:23:17 +0800",
       "minecraft:desert": "2019-11-16 10:33:34 +0800",
       "minecraft:birch_forest": "2019-11-09 17:43:46 +0800",
+      "minecraft:bamboo_jungle": "2019-12-30 13:23:50 +0800",
       "minecraft:deep_lukewarm_ocean": "2019-11-30 19:12:13 +0800",
       "minecraft:savanna_plateau": "2019-11-16 21:36:24 +0800",
       "minecraft:beach": "2019-11-17 09:38:15 +0800",
@@ -1136,7 +1145,9 @@
       "minecraft:lukewarm_ocean": "2019-11-17 09:39:31 +0800",
       "minecraft:birch_forest_hills": "2019-11-09 17:44:00 +0800",
       "minecraft:wooded_mountains": "2019-11-08 10:40:21 +0800",
+      "minecraft:bamboo_jungle_hills": "2019-12-30 13:24:03 +0800",
       "minecraft:wooded_hills": "2019-11-16 18:10:31 +0800",
+      "minecraft:stone_shore": "2019-12-30 13:22:11 +0800",
       "minecraft:swamp": "2019-11-09 17:40:49 +0800",
       "minecraft:savanna": "2019-11-16 21:34:37 +0800",
       "minecraft:plains": "2019-11-04 11:09:32 +0800"
@@ -1515,6 +1526,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2019-12-30 13:27:28 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-11-07 13:06:26 +0800"
@@ -1693,6 +1710,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-11-09 15:12:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2019-12-30 13:27:28 +0800"
     },
     "done": true
   },
@@ -2191,6 +2214,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2019-11-17 14:43:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2019-12-30 13:27:28 +0800"
     },
     "done": true
   },
