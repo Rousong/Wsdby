@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2020-12-10 21:35:11 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-11-03 23:16:07 +0800"
@@ -725,6 +731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2020-12-10 21:32:35 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2019-11-05 21:36:04 +0800"
@@ -772,15 +784,19 @@
       "minecraft:pillager": "2019-11-13 19:15:27 +0800",
       "minecraft:skeleton": "2019-11-04 21:38:31 +0800",
       "minecraft:ravager": "2019-11-27 11:16:37 +0800",
+      "minecraft:hoglin": "2020-12-10 21:34:46 +0800",
       "minecraft:vindicator": "2019-11-04 13:08:53 +0800",
+      "minecraft:magma_cube": "2020-12-10 21:30:52 +0800",
       "minecraft:spider": "2019-11-03 22:50:45 +0800",
       "minecraft:creeper": "2019-11-03 22:53:16 +0800",
       "minecraft:evoker": "2019-12-19 20:51:37 +0800",
       "minecraft:phantom": "2019-11-04 12:48:50 +0800",
       "minecraft:zombified_piglin": "2019-12-01 20:13:06 +0800",
       "minecraft:witch": "2019-11-05 21:41:33 +0800",
+      "minecraft:wither_skeleton": "2020-12-10 21:30:58 +0800",
       "minecraft:husk": "2019-11-27 11:03:20 +0800",
       "minecraft:cave_spider": "2019-11-07 00:44:02 +0800",
+      "minecraft:piglin": "2020-12-10 20:50:56 +0800",
       "minecraft:enderman": "2019-11-05 22:39:04 +0800",
       "minecraft:zombie": "2019-11-03 22:51:57 +0800",
       "minecraft:drowned": "2019-11-27 21:40:03 +0800",
@@ -1115,6 +1131,12 @@
   "minecraft:nether/create_beacon": {
     "criteria": {
       "beacon": "2019-11-03 22:36:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2020-12-10 20:32:07 +0800"
     },
     "done": true
   },
@@ -1778,7 +1800,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2020-12-07 13:56:01 +0800"
+      "minecraft:crimson_forest": "2020-12-10 21:33:06 +0800",
+      "minecraft:nether_wastes": "2020-12-07 13:56:01 +0800",
+      "minecraft:basalt_deltas": "2020-12-10 21:30:22 +0800"
     },
     "done": false
   },
@@ -2893,6 +2917,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2020-12-10 20:49:56 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2019-11-03 23:48:47 +0800"
@@ -3067,6 +3097,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2020-12-10 21:30:22 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2019-11-03 22:26:59 +0800"
@@ -3130,6 +3166,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2019-11-05 21:40:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2020-12-10 21:30:58 +0800"
     },
     "done": true
   },
@@ -3241,6 +3283,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2020-12-10 21:35:11 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2019-12-05 21:42:52 +0800"
@@ -3292,6 +3340,12 @@
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2019-12-06 22:24:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2020-12-10 21:32:35 +0800"
     },
     "done": true
   },
@@ -3598,6 +3652,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2019-11-27 21:37:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2020-12-10 21:33:46 +0800"
     },
     "done": true
   },

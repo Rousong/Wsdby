@@ -1208,6 +1208,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2020-12-10 21:40:16 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2019-11-24 22:26:28 +0800"
@@ -1288,6 +1294,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2020-12-10 21:32:52 +0800",
       "minecraft:nether_wastes": "2020-12-06 22:16:26 +0800",
       "minecraft:soul_sand_valley": "2020-12-06 22:17:15 +0800",
       "minecraft:basalt_deltas": "2020-12-06 22:17:48 +0800"

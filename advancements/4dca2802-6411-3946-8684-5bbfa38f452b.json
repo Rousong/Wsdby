@@ -802,6 +802,7 @@
       "minecraft:shulker": "2019-11-28 21:44:12 +0800",
       "minecraft:cave_spider": "2020-12-09 21:23:09 +0800",
       "minecraft:piglin": "2020-12-07 20:34:35 +0800",
+      "minecraft:enderman": "2020-12-10 19:29:00 +0800",
       "minecraft:zombie": "2019-11-17 22:38:38 +0800",
       "minecraft:drowned": "2019-12-02 20:25:19 +0800"
     },
@@ -1688,6 +1689,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2020-12-10 21:40:38 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_red_flower": "2019-11-24 23:04:03 +0800"
@@ -1709,6 +1716,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2019-12-01 13:58:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2020-12-10 14:18:44 +0800"
     },
     "done": true
   },
@@ -1804,7 +1817,10 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2020-12-07 21:14:00 +0800"
+      "minecraft:crimson_forest": "2020-12-10 21:40:34 +0800",
+      "minecraft:nether_wastes": "2020-12-07 21:14:00 +0800",
+      "minecraft:soul_sand_valley": "2020-12-10 21:48:19 +0800",
+      "minecraft:basalt_deltas": "2020-12-10 21:43:34 +0800"
     },
     "done": false
   },
@@ -1913,6 +1929,12 @@
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_white_flower": "2019-11-27 14:43:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2020-12-10 21:48:32 +0800"
     },
     "done": true
   },
@@ -2243,10 +2265,12 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2019-12-01 19:24:44 +0800",
+      "honey_bottle": "2020-12-10 14:18:47 +0800",
       "cooked_beef": "2019-11-18 14:24:17 +0800",
       "cooked_cod": "2019-11-28 22:40:26 +0800",
       "pumpkin_pie": "2019-11-30 11:06:03 +0800",
-      "pufferfish": "2019-11-18 14:23:01 +0800"
+      "pufferfish": "2019-11-18 14:23:01 +0800",
+      "golden_apple": "2020-12-10 19:28:23 +0800"
     },
     "done": false
   },
@@ -2988,6 +3012,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2020-12-10 14:18:44 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2019-11-17 11:39:39 +0800"
@@ -3102,6 +3132,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2020-12-10 21:44:56 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2019-11-17 11:11:57 +0800"
@@ -3171,6 +3207,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2019-11-20 18:26:42 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2020-12-10 14:47:28 +0800"
     },
     "done": true
   },
@@ -3498,6 +3540,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2020-12-10 21:42:52 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed": {
     "criteria": {
       "has_cyan_wool": "2019-11-17 14:45:26 +0800"
@@ -3723,6 +3771,12 @@
   "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2019-11-24 23:29:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2020-12-10 21:48:32 +0800"
     },
     "done": true
   },
