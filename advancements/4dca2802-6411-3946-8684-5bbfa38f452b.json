@@ -1659,6 +1659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2021-01-28 17:15:40 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2019-11-17 10:48:32 +0800"
@@ -1761,6 +1767,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "tropical_fish": "2021-01-28 17:17:14 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2019-11-17 16:39:23 +0800"
@@ -1770,6 +1782,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2019-12-01 15:27:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-01-28 17:15:40 +0800"
     },
     "done": true
   },
