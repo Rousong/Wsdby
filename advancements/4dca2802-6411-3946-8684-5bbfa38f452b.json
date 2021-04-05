@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2021-04-05 14:29:37 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2019-11-20 21:25:08 +0800"
@@ -440,6 +446,12 @@
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2019-11-30 15:22:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
+    "criteria": {
+      "has_log": "2021-04-05 14:29:38 +0800"
     },
     "done": true
   },
@@ -647,12 +659,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2019-11-27 14:31:54 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-11-17 16:28:38 +0800"
@@ -757,7 +763,7 @@
   },
   "minecraft:adventure/root": {
     "criteria": {
-      "killed_something": "2019-11-17 11:13:18 +0800"
+      "killed_by_something": "2021-04-05 18:16:09 +0800"
     },
     "done": true
   },
@@ -812,6 +818,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2019-12-04 14:10:03 +0800",
+      "minecraft:blaze": "2021-04-05 16:28:52 +0800",
       "minecraft:skeleton": "2019-11-22 19:37:18 +0800",
       "minecraft:zoglin": "2020-12-08 20:57:56 +0800",
       "minecraft:ravager": "2019-11-30 11:14:45 +0800",
@@ -822,6 +829,7 @@
       "minecraft:phantom": "2019-11-17 15:41:45 +0800",
       "minecraft:zombified_piglin": "2019-11-18 15:34:29 +0800",
       "minecraft:witch": "2019-12-01 19:15:31 +0800",
+      "minecraft:wither_skeleton": "2021-04-05 23:31:48 +0800",
       "minecraft:husk": "2019-11-17 11:55:22 +0800",
       "minecraft:shulker": "2019-11-28 21:44:12 +0800",
       "minecraft:cave_spider": "2020-12-09 21:23:09 +0800",
@@ -955,12 +963,6 @@
   "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2019-12-21 20:12:33 +0800"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2019-12-04 14:10:27 +0800"
     },
     "done": true
   },
@@ -1138,6 +1140,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2021-04-05 16:28:54 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2019-11-21 22:04:36 +0800"
@@ -1153,6 +1161,12 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2019-11-28 21:48:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2021-04-05 14:29:37 +0800"
     },
     "done": true
   },
@@ -1288,6 +1302,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2021-04-05 14:29:34 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall": {
     "criteria": {
       "has_end_stone_bricks": "2019-11-30 15:20:19 +0800"
@@ -1339,6 +1359,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2019-12-01 19:19:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2021-04-05 14:29:36 +0800"
     },
     "done": true
   },
@@ -1546,15 +1572,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:creeper": "2019-11-17 11:42:19 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_glazed_terracotta": {
     "criteria": {
       "has_black_terracotta": "2019-12-03 13:55:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zoglin": "2021-04-05 18:16:09 +0800"
     },
     "done": true
   },
@@ -1608,30 +1634,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:jungle_edge": "2019-12-30 13:23:52 +0800",
-      "minecraft:mountains": "2019-11-17 10:19:40 +0800",
-      "minecraft:forest": "2019-11-17 11:11:00 +0800",
-      "minecraft:taiga": "2019-12-30 13:23:03 +0800",
-      "minecraft:desert_hills": "2019-11-17 15:13:01 +0800",
-      "minecraft:giant_tree_taiga": "2019-12-30 13:23:18 +0800",
-      "minecraft:taiga_hills": "2019-12-30 13:23:51 +0800",
-      "minecraft:desert": "2019-11-17 11:51:48 +0800",
-      "minecraft:birch_forest": "2019-11-21 20:26:14 +0800",
-      "minecraft:bamboo_jungle": "2019-12-30 13:23:54 +0800",
-      "minecraft:deep_lukewarm_ocean": "2019-11-17 16:39:31 +0800",
-      "minecraft:savanna_plateau": "2019-11-17 14:09:34 +0800",
-      "minecraft:beach": "2019-11-17 09:45:55 +0800",
-      "minecraft:dark_forest": "2019-12-21 20:54:55 +0800",
-      "minecraft:river": "2019-11-17 09:46:37 +0800",
-      "minecraft:lukewarm_ocean": "2019-11-17 09:46:40 +0800",
-      "minecraft:birch_forest_hills": "2019-12-18 22:48:37 +0800",
-      "minecraft:wooded_mountains": "2019-11-17 11:51:33 +0800",
-      "minecraft:bamboo_jungle_hills": "2019-12-30 13:24:03 +0800",
-      "minecraft:wooded_hills": "2019-11-17 09:40:59 +0800",
-      "minecraft:stone_shore": "2019-12-30 13:22:14 +0800",
-      "minecraft:swamp": "2019-11-21 20:53:22 +0800",
-      "minecraft:savanna": "2019-11-17 11:42:41 +0800",
-      "minecraft:plains": "2019-11-17 09:39:24 +0800"
+      "minecraft:forest": "2021-04-05 18:07:44 +0800",
+      "minecraft:desert": "2021-04-05 17:18:51 +0800"
     },
     "done": false
   },
@@ -1854,6 +1858,12 @@
   "minecraft:recipes/decorations/yellow_carpet": {
     "criteria": {
       "has_yellow_wool": "2019-12-01 15:18:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2021-04-05 23:41:16 +0800"
     },
     "done": true
   },
@@ -2097,12 +2107,6 @@
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2019-11-21 22:04:36 +0800"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2020-12-07 21:13:59 +0800"
     },
     "done": true
   },
@@ -2354,7 +2358,8 @@
       "cooked_cod": "2019-11-28 22:40:26 +0800",
       "pumpkin_pie": "2019-11-30 11:06:03 +0800",
       "pufferfish": "2019-11-18 14:23:01 +0800",
-      "golden_apple": "2020-12-10 19:28:23 +0800"
+      "golden_apple": "2020-12-10 19:28:23 +0800",
+      "enchanted_golden_apple": "2021-04-06 00:21:22 +0800"
     },
     "done": false
   },
@@ -2571,6 +2576,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2019-12-01 15:06:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2021-04-06 00:26:07 +0800"
     },
     "done": true
   },
@@ -3228,12 +3239,6 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2020-12-10 21:44:56 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2019-11-17 11:11:57 +0800"
@@ -3303,6 +3308,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2019-11-20 18:26:42 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2021-04-06 00:31:57 +0800"
     },
     "done": true
   },
@@ -3420,6 +3431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2021-04-05 14:29:38 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2019-11-17 14:17:49 +0800"
@@ -3486,6 +3503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2021-04-06 00:26:07 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2019-11-27 13:26:37 +0800"
@@ -3531,6 +3554,12 @@
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2019-11-17 17:40:34 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2021-04-05 16:28:54 +0800"
     },
     "done": true
   },
@@ -3690,6 +3719,12 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2021-04-05 17:17:38 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2019-11-17 11:02:27 +0800"
@@ -3819,6 +3854,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2019-11-17 19:19:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2021-04-05 22:16:26 +0800"
     },
     "done": true
   },
