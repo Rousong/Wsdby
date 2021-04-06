@@ -1635,7 +1635,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2021-04-05 18:07:44 +0800",
-      "minecraft:desert": "2021-04-05 17:18:51 +0800"
+      "minecraft:mountains": "2021-04-06 22:39:09 +0800",
+      "minecraft:desert_hills": "2021-04-06 22:41:19 +0800",
+      "minecraft:desert": "2021-04-05 17:18:51 +0800",
+      "minecraft:river": "2021-04-06 22:38:42 +0800",
+      "minecraft:wooded_mountains": "2021-04-06 22:39:15 +0800",
+      "minecraft:wooded_hills": "2021-04-06 22:38:52 +0800",
+      "minecraft:plains": "2021-04-06 22:03:26 +0800"
     },
     "done": false
   },

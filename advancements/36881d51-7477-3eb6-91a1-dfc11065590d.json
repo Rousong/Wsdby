@@ -614,6 +614,7 @@
       "minecraft:wither_skeleton": "2021-04-05 23:31:31 +0800",
       "minecraft:husk": "2019-11-17 21:11:15 +0800",
       "minecraft:cave_spider": "2021-04-04 20:06:39 +0800",
+      "minecraft:piglin": "2021-04-06 22:49:07 +0800",
       "minecraft:enderman": "2019-11-16 14:38:26 +0800",
       "minecraft:zombie": "2019-11-05 11:46:47 +0800",
       "minecraft:drowned": "2019-11-17 13:47:53 +0800",
@@ -1263,6 +1264,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2019-11-08 13:58:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2021-04-06 11:06:19 +0800"
     },
     "done": true
   },
